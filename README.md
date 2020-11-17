@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Gaias-resurrection
 4BHITM ITP Projekt<br>
 
@@ -20,9 +19,3 @@
 | 7  | Insel | 10.02.2021 |
 | 8  | Umgebung | 20.02.2021 |
 | 9  | Story | 30.03.2021 |
-=======
-# Gaias Resurrection
-
-ITP Projekt aus der 4BHITM
-Weitere Informationen befinden sich in der"README" Datei
->>>>>>> main
