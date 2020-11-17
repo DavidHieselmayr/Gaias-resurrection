@@ -1,2 +1,4 @@
 # Gaias Resurrection
-4BHITM ITP Projekt
+
+ITP Projekt aus der 4BHITM
+Weitere Informationen befinden sich in der"README" Datei
