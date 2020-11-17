@@ -10,7 +10,7 @@
 **Meilensteine**
 | ID | Thema | Datum | Status |
 |----|-------|-------|----|
-| 1  | Organisatorisches | 17.11.2020 | | 
+| 1  | Organisatorisches | 17.11.2020 |status | 
 | 2  | Spiel Prototyp | 20.12.2020 | |
 | 3  | Plakat erstellen | 28.12.2020 |  |
 | 4  | Spieler | 28.12.2020 |  |
