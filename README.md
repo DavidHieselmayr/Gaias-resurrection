@@ -1,12 +1,31 @@
 # Gaias-resurrection
-4BHITM ITP Projekt<br>
+Klasse: 4BHITM ITP Projekt<br>
+Zeitdauer: 2 Semester <br>
+
+**Bei dem Spiel handelt es sich um einen Überlebensspiel, welches auch einen Rollenspiel Aspekt hat. Die Grafik des Spiels basiert auf einer Voxel-Grafik (Computergrafik aus Dreidimensionale Pixeln).**
+
+---
 
 **Projektbeteiligte**
 - Hieselmayr David
 - Lim John
 - Beckerle Florian 
 - Häubl Fabian 
-  
+
+**Allgemeine Informationen**
+- Technologien 
+    - PlantUml 
+    - Unity-Hub
+    - Unity Collaborate
+    - Visual Studio Code 
+    - Adobe-XD
+    - Cinema4D
+    - MagicaVoxel
+    - Mixamo 
+    - Adobe Photoshop 2020
+    - Discord
+
+---
 **Meilensteine**
 | ID | Thema | Datum | Status |
 |----|-------|-------|----|
