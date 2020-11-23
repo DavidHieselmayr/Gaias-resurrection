@@ -2,7 +2,7 @@
 Klasse: 4BHITM ITP Projekt<br>
 Zeitdauer: 2 Semester <br>
 
-**Bei dem Spiel handelt es sich um einen Überlebensspiel, welches auch einen Rollenspiel Aspekt hat. Die Grafik des Spiels basiert auf einer Voxel-Grafik (Computergrafik aus Dreidimensionale Pixeln).**
+**Bei dem Spiel handelt es sich um einen Überlebensspiel, welches auch einen Rollenspiel Aspekt hat.**
 
 ---
 
