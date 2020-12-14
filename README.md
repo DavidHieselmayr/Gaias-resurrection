@@ -30,7 +30,7 @@ Zeitdauer: 2 Semester <br>
 | ID | Thema | Datum | Status |
 |----|-------|-------|----|
 | 1  | Organisatorisches | 17.11.2020 |abschlossen | 
-| 2  | Spiel Prototyp | 20.12.2020 | |
+| 2  | Spiel Prototyp | 20.12.2020 | abschlossen|
 | 3  | Plakat erstellen | 28.12.2020 |  |
 | 4  | Spieler | 28.12.2020 |  |
 | 5  | Gegner | 10.01.2021 |  |
