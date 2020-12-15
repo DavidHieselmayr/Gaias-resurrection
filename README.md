@@ -12,6 +12,17 @@ Zeitdauer: 2 Semester <br>
 - Beckerle Florian 
 - Häubl Fabian 
 
+---
+
+**Schnellzugriff**
+- Mindmap Interface: https://github.com/DavidHieselmayr/Gaias-resurrection/blob/main/mindmeister/Planungsanforderungen%20Prototype.JPG
+- Logos: https://github.com/DavidHieselmayr/Gaias-resurrection/tree/main/logos
+- Prototyp: https://github.com/DavidHieselmayr/Gaias-resurrection/tree/main/LIM_GAIA_Prototyp
+- Pflichtenheft: https://github.com/DavidHieselmayr/Gaias-resurrection/tree/main/pflichtenheft
+- UML: https://github.com/DavidHieselmayr/Gaias-resurrection/tree/main/uml
+
+---
+
 **Allgemeine Informationen**
 - Technologien 
     - PlantUml 
@@ -38,3 +49,7 @@ Zeitdauer: 2 Semester <br>
 | 7  | Insel | 10.02.2021 |  |
 | 8  | Umgebung | 20.02.2021 |  |
 | 9  | Story | 30.03.2021 | |
+
+
+---
+
