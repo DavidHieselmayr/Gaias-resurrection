@@ -15,11 +15,12 @@ Zeitdauer: 2 Semester <br>
 ---
 
 **Schnellzugriff**
-- Mindmap Interface: https://github.com/DavidHieselmayr/Gaias-resurrection/blob/main/mindmeister/Planungsanforderungen%20Prototype.JPG
-- Logos: https://github.com/DavidHieselmayr/Gaias-resurrection/tree/main/logos
-- Prototyp: https://github.com/DavidHieselmayr/Gaias-resurrection/tree/main/LIM_GAIA_Prototyp
-- Pflichtenheft: https://github.com/DavidHieselmayr/Gaias-resurrection/tree/main/pflichtenheft
-- UML: https://github.com/DavidHieselmayr/Gaias-resurrection/tree/main/uml
+[Mindmap Interface](https://github.com/DavidHieselmayr/Gaias-resurrection/blob/main/mindmeister/Planungsanforderungen%20Prototype.JPG)
+- 
+- [Logos](https://github.com/DavidHieselmayr/Gaias-resurrection/tree/main/logos)
+- [Prototyp](https://github.com/DavidHieselmayr/Gaias-resurrection/tree/main/LIM_GAIA_Prototyp)
+- [Pflichtenheft](https://github.com/DavidHieselmayr/Gaias-resurrection/tree/main/pflichtenheft)
+- [UML](https://github.com/DavidHieselmayr/Gaias-resurrection/tree/main/uml)
 
 ---
 
