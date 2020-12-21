@@ -35,7 +35,10 @@ Zeitdauer: 2 Semester <br>
     - Mixamo 
     - Adobe Photoshop 2020
     - Discord
+---
 
+**Sprint**
+- [Weihnachtsprint](https://github.com/DavidHieselmayr/Gaias-resurrection/issues/27)
 ---
 **Meilensteine**
 | ID | Thema | Datum | Status |
