@@ -37,7 +37,7 @@ Zeitdauer: 2 Semester <br>
     - Discord
 ---
 
-**Sprint**
+**Sprints**
 - [Weihnachtsprint](https://github.com/DavidHieselmayr/Gaias-resurrection/issues/27)
 ---
 **Meilensteine**
