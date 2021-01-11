@@ -48,8 +48,8 @@ Zeitdauer: 2 Semester <br>
 | 3  | Plakat erstellen | 08.01.2021 | abgeschlossen  |
 | 4  | Produkt Video erstellen | 15.01.2021 |  |
 | 5  | Spieler | 28.12.2020 |  |
-| 6  | Gegner | 10.01.2021 |  |
-| 7  | Bosse | 20.01.2021 |  |
+| 6  | Gegner | 10.02.2021 |  |
+| 7  | Bosse | 20.03.2021 |  |
 | 8  | Insel | 10.02.2021 |  |
 | 9  | Umgebung | 20.02.2021 |  |
 | 10 | Story | 30.03.2021 | |
