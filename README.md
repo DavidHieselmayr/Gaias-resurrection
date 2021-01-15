@@ -2,7 +2,7 @@
 Klasse: 4BHITM ITP Projekt<br>
 Zeitdauer: 2 Semester <br>
 **Dieses Repo dient allein zur Planung und Verwaltung, der verschiedenen Issues** <br><br>
-**Bei dem Spiel handelt es sich um einen Überlebensspiel, welches auch einen Rollenspiel Aspekt hat.**
+**Bei Spiel handelt es sich um einen Überlebensspiel, welches auch einen Rollenspiel Aspekt hat.**
 
 ---
 
