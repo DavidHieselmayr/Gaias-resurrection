@@ -20,6 +20,8 @@ Zeitdauer: 2 Semester <br>
 - [Prototyp](https://github.com/DavidHieselmayr/Gaias-resurrection/tree/main/LIM_GAIA_Prototyp)
 - [Pflichtenheft](https://github.com/DavidHieselmayr/Gaias-resurrection/tree/main/pflichtenheft)
 - [UML](https://github.com/DavidHieselmayr/Gaias-resurrection/tree/main/uml)
+- [Plakate](https://github.com/DavidHieselmayr/Gaias-resurrection/tree/main/abgabenPlakat)
+- [Projektvideo](https://htblaleonding-my.sharepoint.com/:v:/g/personal/d_hieselmayr_htblaleonding_onmicrosoft_com/EQyhShH3FSBJpEwvohc_gJcB41kobtbU2a7I28L-DlcGdA?e=mMAku9)
 
 ---
 
