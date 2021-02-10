@@ -40,7 +40,9 @@ Zeitdauer: 2 Semester <br>
 ---
 
 **Sprints**
-- [Weihnachtsprint](https://github.com/DavidHieselmayr/Gaias-resurrection/issues/27)
+- [I: Sprint XMas Rush](https://github.com/DavidHieselmayr/Gaias-resurrection/issues/27)
+- [II: Sprint Semester Boost](https://github.com/DavidHieselmayr/Gaias-resurrection/issues/46)
+- [III: Sprint Semester Workaholic](https://github.com/DavidHieselmayr/Gaias-resurrection/issues/53)
 ---
 **Meilensteine**
 | ID | Thema | Datum | Status |
