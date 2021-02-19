@@ -43,6 +43,7 @@ Zeitdauer: 2 Semester <br>
 - [I: Sprint XMas Rush](https://github.com/DavidHieselmayr/Gaias-resurrection/issues/27)
 - [II: Sprint Semester Boost](https://github.com/DavidHieselmayr/Gaias-resurrection/issues/46)
 - [III: Sprint Semester Workaholic](https://github.com/DavidHieselmayr/Gaias-resurrection/issues/53)
+- [IV: Tauros Sprint](https://github.com/DavidHieselmayr/Gaias-resurrection/issues/56)
 ---
 **Meilensteine**
 | ID | Thema | Datum | Status |
