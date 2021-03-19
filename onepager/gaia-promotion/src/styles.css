@@ -16,3 +16,6 @@ body {
   src: url("assets/font/Montserrat/Montserrat-SemiBold.ttf");
 
 }
+
+html, body { height: 100%; }
+body { margin: 0; font-family: Roboto, "Helvetica Neue", sans-serif; }

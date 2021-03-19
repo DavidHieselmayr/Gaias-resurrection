@@ -4,6 +4,8 @@
   align-items: center;
   background-color: #2a2b2f;
   //flex-wrap: wrap;
+  max-height: 18vh;
+  min-height: 13vh;
 }
 
 #navbox a {
