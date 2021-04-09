@@ -12,7 +12,7 @@ Download link: https://we.tl/t-RZnsUc6kUF
 ---
 
 **GAIA V2.0 (09.04.2021)**
-Download link: https://we.tl/t-bLSackWc1u
+Download link: https://we.tl/t-bLSackWc1u (https://we.tl/t-5PAORtnDKz)
 
 ---
 
