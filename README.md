@@ -11,6 +11,11 @@ Download link: https://we.tl/t-RZnsUc6kUF
 
 ---
 
+**GAIJA V2.0 (09.04.2021)**
+Download link: https://we.tl/t-bLSackWc1u
+
+---
+
 **Projektbeteiligte**
 - Hieselmayr David
 - Lim John
