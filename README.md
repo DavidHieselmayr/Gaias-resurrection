@@ -6,12 +6,12 @@ Zeitdauer: 2 Semester <br>
 
 ---
 
-**GAIJA V1.0 (16.03.2021)**
+**GAIA V1.0 (16.03.2021)**
 Download link: https://we.tl/t-RZnsUc6kUF
 
 ---
 
-**GAIJA V2.0 (09.04.2021)**
+**GAIA V2.0 (09.04.2021)**
 Download link: https://we.tl/t-bLSackWc1u
 
 ---
