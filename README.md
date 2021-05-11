@@ -37,7 +37,8 @@ Download link: https://we.tl/t-yKafLxGXbE
 - [UML](https://github.com/DavidHieselmayr/Gaias-resurrection/tree/main/uml)
 - [Plakate](https://github.com/DavidHieselmayr/Gaias-resurrection/tree/main/abgabenPlakat)
 - [Projektvideo](https://htblaleonding-my.sharepoint.com/:v:/g/personal/d_hieselmayr_htblaleonding_onmicrosoft_com/EQyhShH3FSBJpEwvohc_gJcB41kobtbU2a7I28L-DlcGdA?e=mMAku9)
-
+- [Story](https://github.com/DavidHieselmayr/Gaias-resurrection/blob/main/spielplanung/Story.pdf)
+- [Story erweitert](https://github.com/DavidHieselmayr/Gaias-resurrection/blob/main/spielplanung/erweiterteStory.pdf)
 ---
 
 **Allgemeine Informationen**
