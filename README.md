@@ -30,7 +30,7 @@ Download link: https://we.tl/t-yKafLxGXbE
 ---
 
 **Schnellzugriff**
-- [webseite](http://130.61.61.245/)
+- [webseite](http://129.159.194.16/)
 - [Mindmap Interface](https://github.com/DavidHieselmayr/Gaias-resurrection/blob/main/mindmeister/Planungsanforderungen%20Prototype.JPG)
 - [Logos](https://github.com/DavidHieselmayr/Gaias-resurrection/tree/main/logos)
 - [Prototyp](https://github.com/DavidHieselmayr/Gaias-resurrection/tree/main/LIM_GAIA_Prototyp)
