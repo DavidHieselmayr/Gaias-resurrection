@@ -1,0 +1,12 @@
+@startuml
+start
+:Baum abbauen;
+:Axt, Schwert, Spitzhacke herstellen;
+:Fischteich besuchen;
+:Strand besuchen;
+:Ruinen besuchen (kämpfen);
+:Bossgegener besuchen;
+:vom Bossgegner "besiegen lassen" (entweder fliehen, oder töten lassen);
+:zurück zum Spawnpunkt, und Rüstung ausrüsten;
+end
+@enduml
