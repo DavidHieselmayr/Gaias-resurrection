@@ -1,6 +1,6 @@
 # Gaias-resurrection
 Klasse: 4BHITM ITP Projekt<br>
-Zeitdauer: 2 Semester/ 2 Wochen vor Ostern <br>
+Zeitdauer: 2 Semester/ 2 Wochen vor Ostern 5BHITM<br>
 **Dieses Repo dient allein zur Planung und Verwaltung, der verschiedenen Issues** <br><br>
 **Bei Spiel handelt es sich um einen Überlebensspiel, welches auch einen Rollenspiel Aspekt hat.**
 
